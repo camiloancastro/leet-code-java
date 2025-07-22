@@ -6,7 +6,7 @@ package easy;
  * Leetcode
  */
 
-public class TwoSum {
+public class TwoSum2 {
 
   public static void main(String[] args) {
     int[] nums = new int[]{3, 3};
